@@ -1,0 +1,214 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: url("file:///Users/janelleshines/Desktop/presentation/images/blurryoffice.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#menu{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+#menu_items{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: black;
+    border: solid white 2px;
+    border-radius: 2px;
+    padding-right: 20px;
+    
+}
+
+#image-grid{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#history{
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    text-align: center;
+    align-items: center;
+}
+
+#history-content{
+    display: flex;
+    margin-right: 20px;
+    justify-content: center;
+    width: 75%;
+    
+}
+
+#article{
+    width: 400px;
+}
+
+#dressimage{
+    height: 400px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+#article-right{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 500px;
+}
+
+#history-left{
+    width: 500px;
+}
+
+#exphead{
+    margin-left: 345px;
+}
+
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    border: solid white 2px;
+    border-radius: 2px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.w-100 {
+    width: 350px !important;
+    height: 300px !important;
+  }
+
+  .carousel-inner img {
+    margin: auto;
+  }
+  
+
+h2{
+    width: 60%;
+    color: white;
+    text-align: center;
+    border: white solid 2px;
+    padding: 20px;
+    background-color:black;
+    opacity: 0.3;
+    font-weight: bolder;
+
+}
+
+#imggrid{
+    height: 250px;
+    width: 250px;
+}
+
+#aside{
+    width: 500px;
+}
+
+#ideal-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+}
+
+#cards{
+    display: flex;
+    justify-content: center !important;
+}
+
+#look{
+    margin-left: 275px;
+    margin-top: 20px;
+}
+
+.card{
+    padding: 10px;
+    margin: 20px;
+}
+
+#exptext{
+    margin-left: 300px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  #gallery{
+      display: flex;
+  }
+
+  #gall-one{
+      display: flex;
+      flex-direction: column;
+  }
+  #gall-two{
+      display: flex;
+      flex-direction: column;
+  }
+  #gall-three{
+      display: flex;
+      flex-direction: column;
+  }
+  #gall-four{
+      display: flex;
+      flex-direction: column;
+  }
+
+  #future-head{
+      margin-left: 345px;
+  }
+
+  #gall-content{
+      display: flex;
+  }
+
+  #ideal-head{
+      margin-left: 350px;
+  }
+
+  #history-head{
+      width: 75%;
+      margin-left: 400px;
+  }
